@@ -162,6 +162,6 @@
 <img height="150px" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello World 👨‍💻;Exploring fullstack & blockchain tech;Always shipping & learning 🚢📚
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World+👨‍💻;Exploring+fullstack+and+blockchain+tech;Always+shipping+and+learning 🚢📚
 " alt="Typing SVG" />
 </a>
